@@ -17,5 +17,3 @@ function App() { //cria o componente App. Ele é uma função que retorna um ele
 }
 
 export default App; //exporta o componente App para que possa ser utilizado em outros arquivos.
-
-
